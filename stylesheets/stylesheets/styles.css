@@ -1,0 +1,35 @@
+
+
+p { 
+    color: #000000
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: #4285f4;
+    color: #fff;
+}
+
+.column-1 {
+    text-align: left;
+}
+
+.column-2 {
+    text-align: right;
+}
+
+/* tr:hover {
+    background-color: #f9f9f9;
+} */
+
+/* tr:hover td {
+    color: white;
+    font-size: 2em;
+} */
+
+.odd-row, tr:hover {
+    background-color: #f9f9f9;
+}
